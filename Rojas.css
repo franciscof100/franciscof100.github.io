@@ -1,0 +1,36 @@
+body{
+
+    font-size: 35px;
+    background-color: black;
+    
+}
+div{
+background-color: black;
+color: aquamarine;
+border: 2px solid greenyellow;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.titulo{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 45px;
+color: brown;
+}
+.escudo{
+    width:100px;
+    height: 100px;
+    position: absolute;
+    top: 20px;
+    right: 50px;
+    
+}
+img{
+    width: 250px;
+    height: 250px;
+    
+}
+.estructura{
+    display: grid;
+    grid-template-columns:repeat(2,1fr);
+    grid-template-rows:auto;
+}
