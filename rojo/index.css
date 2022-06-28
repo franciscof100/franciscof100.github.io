@@ -1,0 +1,28 @@
+body{
+    background: radial-gradient(blue, violet,purple);
+}
+P{
+    color: aqua;
+    text-align: center;
+    font-family:'Press Start 2P', cursive;
+    font-size: 50pt;
+    position:relative;
+    bottom: 150%;
+}
+h1{
+    color: crimson;
+    font-family: 'Monoton', cursive;
+    text-align: center;
+    font-size: 50pt;
+}
+img{
+    position: relative;
+    bottom: 50pt;
+    left: 40%;
+    border-radius: 100px;
+
+}
+a{
+    font-size:20px;
+    color: darkblue;
+}

@@ -1,0 +1,35 @@
+body{
+    background-image: url(verano.jpg);
+}
+
+.esmeralda{
+    font-family: Broadway;
+    font-size: 50px;
+    color: fuchsia;
+    text-align: center;
+    text-shadow: 4px 5px 6px orangered;
+}
+
+.cielo{
+    font-family: Forte;
+    font-size: 30px;
+    color: rgb(132, 0, 255);
+}
+
+.sol{
+    font-family: Forte;
+    font-size: 30px;
+    color: rgb(132, 0, 255);
+}
+
+.luna{
+    font-family: Forte;
+    font-size: 30px;
+    color: rgb(132, 0, 255);
+}
+
+.amarillo{
+    font-family: Ravie;
+    font-size: 15px;
+    color: black;
+}
